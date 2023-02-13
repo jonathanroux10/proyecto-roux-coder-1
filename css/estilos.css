@@ -1,0 +1,11 @@
+body {
+    background: url("https://ikiwi.net.ar/wp-content/uploads/préstamos-personales-en-Argentina.png") no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.95;
+}
+
+H1 {
+    color: brown;
+    text-align: center;
+    text-transform: uppercase
+}
